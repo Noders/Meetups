@@ -5,7 +5,7 @@ http://meetupjs.cl
 
 ####¿Cómo empiezo?
 
-Si quieres exponer en alguno de nuestros meetups, solo abre un issue y cuéntanos sobre que quieres hablar. 
+Si quieres exponer en alguno de nuestros meetups, solo [abre un issue](https://github.com/JavascriptChile/Meetups/issues) y cuéntanos sobre que quieres hablar. 
 
 ####Especificaciones
 
