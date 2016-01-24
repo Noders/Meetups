@@ -8,7 +8,7 @@
 
 * 1.- [Creación de una aplicación tipo reddit en Angular 2.0](https://github.com/seagomezar/Angular-2-Press-RedditApp)  - [Sebastian Gomez](https://github.com/seagomezar/)
 
-* 2.- [Vizualización de datos usando Kibana](https://github.com/JavascriptChile/Meetups/issues/6) -  Estanislao Bosch
+* 2.- [Visualización de datos usando Kibana](https://github.com/JavascriptChile/Meetups/issues/6) -  Estanislao Bosch
 
 
 ### Lightning Talks
