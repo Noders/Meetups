@@ -20,13 +20,16 @@ Algo como:
 'Introduccíon al desarrollo con ReactJS'
  -->
 
+
 ## Danos una descripción de tu charla (20 palabras)
 <!-- Con 20 palabras estamos bién :) -->
+
 
 ## ¿Tienes alguna red social donde podamos contactarte?
 <!-- Twitter / Github / Facebook / Badoo / Myspace / Fotolog -->
 
 
 ## ¿Representas a alguna compañía o empresa?
+
 
 ##Quieres agregar algo más?
