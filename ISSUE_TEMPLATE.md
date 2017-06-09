@@ -9,20 +9,20 @@
 - [ ] Lightning Talk (+- 5 minutos)
 - [ ] Avisos de trabajo / comunidades / actividades / ETC.
 
-## ¿Cual es tu nombre?
+## ¿Cuál es tu nombre?
 
 
-## ¿Cual es el título de tu charla?
+## ¿Cuál es el título de tu charla?
 <!-- La idea es que resuma la idea central de tu presentación.
 Algo como:
 'Closures v/s Clases, la batalla final'
 '10 Features de ES7 que tienes que conocer, (el numero 4 te dejará llorando)'
-'Introduccíon al desarrollo con ReactJS'
+'Introducción al desarrollo con ReactJS'
  -->
 
 
 ## Danos una descripción de tu charla (20 palabras)
-<!-- Con 20 palabras estamos bién :) -->
+<!-- Con 20 palabras estamos bien :) -->
 
 
 ## ¿Tienes alguna red social donde podamos contactarte?
@@ -32,4 +32,4 @@ Algo como:
 ## ¿Representas a alguna compañía o empresa?
 
 
-##Quieres agregar algo más?
+## ¿Quieres agregar algo más?
