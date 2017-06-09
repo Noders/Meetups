@@ -19,10 +19,10 @@
 ## Día del meetup
 - [ ] Proyector
   - [ ] Cables y adaptadores (Adaptador de mac)
-  - [ ] s
 - [ ] Grabación.
  - [ ] (?) Hablar con AxiomZen para pedir ['el gato'](https://www.elgato.com/en/gaming/game-capture-hd60-s).
- - [ ] (?) Grabar la presentación con un celular.
+ - [ ] (?) Grabar la presentación con un celular o una camara web.
+ - [ ] (?) Grabar el audio por separado
 - [ ] Plan B
   - [ ] Tener un mac/pc disponible donde bajar el codigo y correr demos
   - [ ] Tener un celular para dar internet.
