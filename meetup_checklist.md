@@ -14,7 +14,13 @@
   - [ ] Facebook Noders
   - [ ] Mail en meetup.com
   - [ ] Twitter Noders
-  - [ ] Otros grupos de Facebook relevantes (proin, frontend chile, react chile, etc).
+  - [ ] Otros grupos de Facebook relevantes:
+    - [PROIN](https://www.facebook.com/groups/proinchile/)
+    - [Front-End Chile](https://www.facebook.com/groups/FrontEndChile/)
+    - [React Chile](https://www.facebook.com/groups/reactchile)
+    - [JavaScript Chile](https://www.facebook.com/groups/JavascriptChile/)
+    - [Comunidad nodeJS chile](https://www.facebook.com/groups/265653273793148/)
+    - Otros?
 
 ## Día del meetup
 - [ ] Proyector
