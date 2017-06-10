@@ -1,6 +1,6 @@
 > Nuestros eventos se rigen por el siguiente [Código de conducta](https://github.com/Noders/code_of_conduct) - [https://github.com/Noders/code_of_conduct](https://github.com/Noders/code_of_conduct) 
 
-> Antes de suscribir una charla, recuerda revísarlo para ver si estamos en la misma página 😊
+> Antes de suscribir una charla, recuerda revísarlo para ver si estamos en la misma onda 😊
 
 
 ## ¿Qué tipo de presentación quieres hacer?
@@ -33,3 +33,10 @@ Algo como:
 
 
 ## ¿Quieres agregar algo más?
+
+
+
+
+-----------
+> Muchas Gracias! 
+> El equipo de @Noders/meetup
