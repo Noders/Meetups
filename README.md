@@ -1,5 +1,4 @@
 # Meetups
-http://meetupjs.cl
 
 ### Proponer una charla
 
