@@ -1,13 +1,13 @@
 ## 3 Semanas antes del Meetup
-- [ ] Conseguir Venues
-  - [ ] Que sea relativamente asequible
-  - [ ] 40/50 personas
-- [ ] Conseguir Charlistas
+- [x] Conseguir Venues
+  - [x] Que sea relativamente asequible
+  - [x] 40/50 personas
+- [x] Conseguir Charlistas
 
 ## 2 Semanas antes del Meetup
 - [ ] Confirmar Venue  
-- [ ] Confirmar Charlistas
-- [ ] Actualizar sitio del meetup
+- [x] Confirmar Charlistas
+- [x] Actualizar sitio del meetup
 
 ## 1 Semana antes del Meetup
 - [ ] Actualizar las comunicaciones.
