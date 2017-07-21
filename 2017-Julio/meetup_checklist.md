@@ -23,7 +23,7 @@
     - Otros?
 
 ## Día del meetup
-- [ ] Proyector
+- [x] Proyector
   - [ ] Cables y adaptadores (Adaptador de mac)
 - [ ] Grabación.
  - [ ] (?) Hablar con AxiomZen para pedir ['el gato'](https://www.elgato.com/en/gaming/game-capture-hd60-s).
@@ -34,7 +34,7 @@
   - [ ] Tener un celular para dar internet.
 
 Optativo:
-- [ ] Comprar Cervezas
+- [x] Comprar Cervezas
 - [ ] Comprar Snacks
 
 ## Post Meetup 
