@@ -31,6 +31,11 @@ Algo como:
 
 ## ¿Representas a alguna compañía o empresa?
 
+## ¿Qué tipo de conector tiene tu notebook?
+
+- [ ] HDMI
+- [ ] Mini DisplayPort
+- [ ] VGA
 
 ## ¿Quieres agregar algo más?
 
