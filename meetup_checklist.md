@@ -26,7 +26,6 @@
 - [ ] Proyector
   - [ ] Cables y adaptadores (Adaptador de mac)
 - [ ] Grabación.
- - [ ] (?) Hablar con AxiomZen para pedir ['el gato'](https://www.elgato.com/en/gaming/game-capture-hd60-s).
  - [ ] (?) Grabar la presentación con un celular o una cámara web.
  - [ ] (?) Grabar el audio por separado
 - [ ] Plan B
@@ -34,7 +33,7 @@
   - [ ] Tener un celular para dar internet.
 
 Optativo:
-- [ ] Comprar Cervezas
+- [ ] Comprar Bebidas
 - [ ] Comprar Snacks
 
 ## Post Meetup 
